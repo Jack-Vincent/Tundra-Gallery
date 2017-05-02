@@ -20,6 +20,7 @@ body {
 }
 
 .page-description {
+  padding: 30px;
   border: 1px solid #000;
   text-align: center;
 }
