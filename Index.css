@@ -57,11 +57,11 @@ nav ul {
 }
 
 .contact-btn {
-float: right;
+  float: right;
 }
 
 .contact-btn a {
-position: relative;
+  position: relative;
   cursor: pointer;
   margin-right: 30px;
   padding: 8px 18px;
